@@ -87,7 +87,7 @@
     Consagrado no artigo 5º da Constituição Federal, esse direito promove a justiça social e pode exigir ações afirmativas para corrigir desigualdades históricas e garantir oportunidades iguais para todos.
 Menções há:  
     ([Principio constituicional da igualdade](https://www.jusbrasil.com.br/noticias/principio-constitucional-da-igualdade/2803750)).  
-    ![Imagem](Uteis\igualdade-e-equidade.png "Igualdade e equidade – Charge de autoria desconhecida")
+    ![Imagem](Uteis/igualdade-e-equidade.png "Igualdade e equidade – Charge de autoria desconhecida")
 
 ### Direito à Segurança ([Art 5º](https://constituicao.stf.jus.br/dispositivo/cf-88-parte-1-titulo-2-capitulo-1-artigo-5))
     O direito à segurança é essencial para proteger a integridade física, psicológica e patrimonial dos indivíduos. Está garantido na Constituição Federal, no artigo 5º, que assegura a
