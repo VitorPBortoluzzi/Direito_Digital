@@ -1,5 +1,25 @@
 # Glossário
 
+## Sumário:
+1. [Lei](#lei)
+2. [Regulamentação](#regulamentação)
+3. [Norma](#norma)
+4. [Instrisecamente](#intrinsecamente)
+5. [Lei Carolina Dieckmann](#lei-carolina-dieckmann-lei-nº-127372012)
+6. [Marco Civil da Internet](#marco-civil-da-internet-lei-nº-1296514)
+7. [Lei Geral da Proteção de Dados](#lei-geral-de-proteção-de-dados-lei-nº-1370918)
+8. [Compliance](#compliance)
+9. [Direito a Privácidade](#direito-à-privacidade-art-5º-inciso-x)
+10. [Direito a Honra](#direito-à-honra-art-5º-inciso-x)
+11. [Direito a Imagem](#direito-à-imagem-art-5º-inciso-v--x)
+12. [Direito ao Anonimato](#direito-ao-anonimato-art-5º-inciso-iv)
+13. [Direito à Informação](#direito-à-informação-art-5º-inciso-xiv--lei-de-acesso-à-informação-lei-nº-125272011)
+14. [Direito ao Sigilo](#direito-ao-sigilo-art-5º-incisos-x--xii)
+15. [Direito à Igualdade](#direito-à-igualdade-art-5º)
+16. [Direito à Segurança](#direito-à-segurança-art-5º)
+17. [Diferença entre Calúnia e Difamação](#diferença-entre-calúnia-e-difamação-art-5º-inciso-v--art-138-cod-penal--art-139-cod-penal)
+
+
 ### Lei
     É uma regra ou prescrição escrita, estabelecida por uma autoridade soberana, que tem força obrigatória e é destinada a 
     regular o comportamento dos indivíduos e das instituições em uma sociedade sob pena de sanções. As leis são criadas 
@@ -65,6 +85,9 @@
 ### Direito à Igualdade ([Art 5º](https://constituicao.stf.jus.br/dispositivo/cf-88-parte-1-titulo-2-capitulo-1-artigo-5))
     O direito à igualdade assegura que todos devem ser tratados de forma igual perante a lei, sem discriminação de qualquer natureza. 
     Consagrado no artigo 5º da Constituição Federal, esse direito promove a justiça social e pode exigir ações afirmativas para corrigir desigualdades históricas e garantir oportunidades iguais para todos.
+Menções há:  
+    ([Principio constituicional da igualdade](https://www.jusbrasil.com.br/noticias/principio-constitucional-da-igualdade/2803750)).  
+    ![Imagem](Uteis\igualdade-e-equidade.png "Igualdade e equidade – Charge de autoria desconhecida")
 
 ### Direito à Segurança ([Art 5º](https://constituicao.stf.jus.br/dispositivo/cf-88-parte-1-titulo-2-capitulo-1-artigo-5))
     O direito à segurança é essencial para proteger a integridade física, psicológica e patrimonial dos indivíduos. Está garantido na Constituição Federal, no artigo 5º, que assegura a
