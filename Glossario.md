@@ -19,16 +19,16 @@
 ### Intrinsecamente
     Refere-se a algo que está relacionado ou faz parte essencial da natureza ou característica fundamental de algo.
 
-### Lei Carolina Dieckmann [Lei nº 12.737/2012](https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2012/lei/l12737.htm)
+### Lei Carolina Dieckmann ([Lei nº 12.737/2012](https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2012/lei/l12737.htm))
     Sancionada em 2012 no Brasil. Essa lei foi criada para tratar de crimes cibernéticos, como a invasão de 
     ispositivos eletrônicos, interrupção de serviços digitais ou de conexão, e a falsificação de documentos 
     eletrônicos ou de cartões de crédito e débito. 
 
-### Marco Civil da Internet [Lei nº 12.965/14](https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2014/lei/l12965.htm)
+### Marco Civil da Internet ([Lei nº 12.965/14](https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2014/lei/l12965.htm))
     Sancionada em 2014 no Brasil.Estabelece princípios, garantias, direitos e deveres para o uso da internet
     no Brasil, além de estipular diretrizes para a ação do Estado dentro das redes.
     
-### Lei Geral de Proteção de Dados [Lei nº 13.709/18](https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2018/lei/L13709.htm)
+### Lei Geral de Proteção de Dados ([Lei nº 13.709/18](https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2018/lei/L13709.htm))
     Sancionada em 2018 no Brasil. A LGPD regula o tratamento de dados pessoais, tanto no meio digital quanto
     no físico, com o objetivo de proteger a privacidade e os direitos fundamentais dos cidadãos brasileiros em 
     relação ao uso de suas informações pessoais.
@@ -37,3 +37,42 @@
     No âmbito institucional e empresarial, compliance é o conjunto de disciplinas a fim de cumprir e se fazer cumprir as normas legais e regulamentares, as políticas e as diretrizes estabelecidas para o negócio e para as atividades da instituição ou empresa, bem como evitar, detectar e tratar quaisquer desvios ou inconformidades que possam ocorrer.
 
     O termo compliance tem origem no verbo em inglês to comply, que significa "cumprir".
+
+### Direito à Privacidade ([Art 5º, inciso X](https://constituicao.stf.jus.br/dispositivo/cf-88-parte-1-titulo-2-capitulo-1-artigo-5))
+    O direito à privacidade é um direito fundamental que protege a vida pessoal, profissional e social de um indivíduo, garantindo que informações sobre sua intimidade, vida privada, honra e imagem sejam protegidas de divulgação não autorizada. 
+    Na Constituição Federal, esse direito está previsto no artigo 5º, inciso X, que declara invioláveis esses aspectos da vida das pessoas, assegurando indenização por dano material ou moral decorrente de sua violação.
+
+### Direito à Honra ([Art 5º, inciso X](https://constituicao.stf.jus.br/dispositivo/cf-88-parte-1-titulo-2-capitulo-1-artigo-5))
+    Protege a reputação e dignidade de uma pessoa, evitando que ela seja difamada, caluniada ou injuriada. 
+    A honra pode ser objetiva (como a sociedade vê a pessoa) ou subjetiva (como a pessoa se vê).
+
+### Direito à Imagem ([Art 5º, inciso V & X](https://constituicao.stf.jus.br/dispositivo/cf-88-parte-1-titulo-2-capitulo-1-artigo-5))
+    Garante a proteção contra o uso indevido ou não autorizado da imagem de uma pessoa, sendo um direito personalíssimo. 
+    A Constituição Federal assegura a inviolabilidade da imagem no artigo 5º, incisos V e X.
+
+### Direito ao Anonimato ([Art 5º, inciso IV](https://constituicao.stf.jus.br/dispositivo/cf-88-parte-1-titulo-2-capitulo-1-artigo-5))
+    O direito ao anonimato envolve a prerrogativa de manter a identidade oculta em certas situações, especialmente para proteger o indivíduo de retaliações ou discriminações. 
+    No entanto, a Constituição Federal, no artigo 5º, inciso IV, garante a liberdade de expressão, mas veda o anonimato para assegurar a responsabilidade pelas manifestações.
+
+### Direito à Informação ([Art 5º, inciso XIV](https://constituicao.stf.jus.br/dispositivo/cf-88-parte-1-titulo-2-capitulo-1-artigo-5)) & ([Lei de Acesso à Informação (Lei nº 12.527/2011)](https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2011/lei/l12527.htm))
+    Este direito assegura o acesso a informações de interesse público, fundamentais para a transparência e participação cidadã. Na Constituição Federal, está previsto no artigo 5º, inciso XIV. 
+    A Lei de Acesso à Informação (Lei nº 12.527/2011) regulamenta esse direito, promovendo a transparência e permitindo que qualquer pessoa solicite informações de órgãos públicos.
+
+### Direito ao Sigilo ([Art 5º, incisos X & XII](https://constituicao.stf.jus.br/dispositivo/cf-88-parte-1-titulo-2-capitulo-1-artigo-5))
+    O direito ao sigilo protege informações confidenciais, garantindo privacidade e segurança. Existem várias formas de sigilo, como o sigilo bancário, fiscal, médico, profissional, e de comunicações. 
+    A Constituição Federal protege esse direito no artigo 5º, incisos X e XII, e sua violação pode resultar em sanções legais.
+
+### Direito à Igualdade ([Art 5º](https://constituicao.stf.jus.br/dispositivo/cf-88-parte-1-titulo-2-capitulo-1-artigo-5))
+    O direito à igualdade assegura que todos devem ser tratados de forma igual perante a lei, sem discriminação de qualquer natureza. 
+    Consagrado no artigo 5º da Constituição Federal, esse direito promove a justiça social e pode exigir ações afirmativas para corrigir desigualdades históricas e garantir oportunidades iguais para todos.
+
+### Direito à Segurança ([Art 5º](https://constituicao.stf.jus.br/dispositivo/cf-88-parte-1-titulo-2-capitulo-1-artigo-5))
+    O direito à segurança é essencial para proteger a integridade física, psicológica e patrimonial dos indivíduos. Está garantido na Constituição Federal, no artigo 5º, que assegura a
+    inviolabilidade da vida, liberdade, igualdade, segurança e propriedade. A segurança pública é dever do Estado, enquanto a segurança pessoal e jurídica protegem os direitos individuais.
+
+### Diferença entre Calúnia e Difamação ([Art 5º, inciso V](https://www.planalto.gov.br/ccivil_03/constituicao/constituicao.htm) & [Art 138 Cod. Penal](https://corpus927.enfam.jus.br/legislacao/cp-40#art-138) & [Art 139 Cod. Penal](https://corpus927.enfam.jus.br/legislacao/cp-40#art-139))
+    * Calúnia: Consiste em acusar falsamente alguém de ter cometido um crime, sabendo que a acusação é falsa. É um crime contra a honra previsto no artigo 138 do Código Penal.
+
+    * Difamação: Consiste em atribuir a alguém um fato ofensivo à sua reputação, que não constitui crime. A difamação está prevista no artigo 139 do Código Penal. 
+
+    Ambos são crimes contra a honra, mas a calúnia envolve a falsa imputação de um crime, enquanto a difamação envolve a atribuição de um fato desonroso que não é necessariamente criminoso.
