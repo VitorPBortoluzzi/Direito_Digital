@@ -7,7 +7,7 @@
 4. [Instrisecamente](#intrinsecamente)
 5. [Lei Carolina Dieckmann](#lei-carolina-dieckmann-lei-nº-127372012)
 6. [Marco Civil da Internet](#marco-civil-da-internet-lei-nº-1296514)
-7. [Lei Geral da Proteção de Dados](#lei-geral-de-proteção-de-dados-lei-nº-1370918)
+7. [Lei Geral da Proteção de Dados(LGPD)](#lei-geral-de-proteção-de-dados-lei-nº-1370918)
 8. [Compliance](#compliance)
 9. [Direito a Privácidade](#direito-à-privacidade-art-5º-inciso-x)
 10. [Direito a Honra](#direito-à-honra-art-5º-inciso-x)
@@ -18,7 +18,8 @@
 15. [Direito à Igualdade](#direito-à-igualdade-art-5º)
 16. [Direito à Segurança](#direito-à-segurança-art-5º)
 17. [Diferença entre Calúnia e Difamação](#diferença-entre-calúnia-e-difamação-art-5º-inciso-v--art-138-cod-penal--art-139-cod-penal)
-
+18. [Lei Anticorrupção (Lei 12.846/13)](#lei-anticorrupção-lei-nº-128462013)
+19. [Duo Diligence](#due-diligence)
 
 ### Lei
     É uma regra ou prescrição escrita, estabelecida por uma autoridade soberana, que tem força obrigatória e é destinada a 
@@ -53,7 +54,7 @@
     no físico, com o objetivo de proteger a privacidade e os direitos fundamentais dos cidadãos brasileiros em 
     relação ao uso de suas informações pessoais.
 
-### Compliance
+### [Compliance](https://fia.com.br/blog/compliance/)
     No âmbito institucional e empresarial, compliance é o conjunto de disciplinas a fim de cumprir e se fazer cumprir as normas legais e regulamentares, as políticas e as diretrizes estabelecidas para o negócio e para as atividades da instituição ou empresa, bem como evitar, detectar e tratar quaisquer desvios ou inconformidades que possam ocorrer.
 
     O termo compliance tem origem no verbo em inglês to comply, que significa "cumprir".
@@ -99,3 +100,10 @@ Menções há:
     * Difamação: Consiste em atribuir a alguém um fato ofensivo à sua reputação, que não constitui crime. A difamação está prevista no artigo 139 do Código Penal. 
 
     Ambos são crimes contra a honra, mas a calúnia envolve a falsa imputação de um crime, enquanto a difamação envolve a atribuição de um fato desonroso que não é necessariamente criminoso.
+
+### Lei Anticorrupção ([Lei nº 12.846/2013](https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2013/lei/l12846.htm))
+Sancionada em 2013 no Brasil, essa lei estabelece medidas para combater a corrupção e responsabiliza empresas por atos lesivos à administração pública. Ela prevê a responsabilização objetiva das pessoas jurídicas, impondo sanções que podem incluir multas de até 20% do faturamento. A lei também incentiva a implementação de programas de compliance e estabelece mecanismos para denúncias e acordos de leniência.
+
+
+### [Due Diligence](https://fia.com.br/blog/due-diligence/)
+Due diligence é um termo utilizado principalmente em contextos empresariais e financeiros, referindo-se ao processo de investigação e avaliação de uma empresa ou ativo antes de uma transação, como fusões e aquisições, investimentos ou financiamentos. O objetivo do due diligence é garantir que todas as informações relevantes sejam analisadas e compreendidas, minimizando riscos e surpresas para as partes envolvidas.
