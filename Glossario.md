@@ -55,7 +55,9 @@
     relação ao uso de suas informações pessoais.
 
 ### [Compliance](https://fia.com.br/blog/compliance/)
-    No âmbito institucional e empresarial, compliance é o conjunto de disciplinas a fim de cumprir e se fazer cumprir as normas legais e regulamentares, as políticas e as diretrizes estabelecidas para o negócio e para as atividades da instituição ou empresa, bem como evitar, detectar e tratar quaisquer desvios ou inconformidades que possam ocorrer.
+    No âmbito institucional e empresarial, compliance é o conjunto de disciplinas a fim de cumprir e se fazer cumprir as normas legais e regulamentares, as políticas e
+    as diretrizes estabelecidas para o negócio e para as atividades da instituição ou empresa, bem como evitar, detectar e tratar quaisquer desvios ou inconformidades
+    que possam ocorrer.
 
     O termo compliance tem origem no verbo em inglês to comply, que significa "cumprir".
 

@@ -18,9 +18,13 @@ Refêrencia há: [Compliance: entenda o que é, tipos e como aplicar nas empresa
 
 # Resumo:
 # O Que é Compliance?
-    Compliance, que significa estar em conformidade, refere-se à implementação de normas e políticas internas que garantem que uma empresa esteja alinhada às legislações e evite fraudes, desvios e atos de corrupção. No Brasil, a Lei Anticorrupção (Lei 12.846/13) reforçou a necessidade desse profissional, especialmente em grandes empresas, exigindo controle rigoroso.
+    Compliance, que significa estar em conformidade, refere-se à implementação de normas e políticas internas que garantem que uma empresa esteja alinhada às
+   legislações e evite fraudes, desvios e atos de corrupção. No Brasil, a Lei Anticorrupção (Lei 12.846/13) reforçou a necessidade desse profissional, especialmente
+   em grandes empresas, exigindo controle rigoroso.
 
-    O profissional de compliance é responsável por criar, implementar e divulgar essas normas, além de garantir que todos na empresa as sigam. Seu maior desafio é evitar fraudes, e, embora sua atuação envolva legislações, o cargo não é restrito a advogados. Ele deve ter forte ética, habilidades de comunicação, e um amplo entendimento das leis relevantes à organização.
+    O profissional de compliance é responsável por criar, implementar e divulgar essas normas, além de garantir que todos na empresa as sigam. Seu maior desafio é
+   evitar fraudes, e, embora sua atuação envolva legislações, o cargo não é restrito a advogados. Ele deve ter forte ética, habilidades de comunicação, e um amplo
+   entendimento das leis relevantes à organização.
 
 # O Que É Compliance?
 
