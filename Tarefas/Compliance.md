@@ -2,7 +2,7 @@ Refêrencia há: [Compliance: entenda o que é, tipos e como aplicar nas empresa
 
 ## Sumário:  
 [O que é compliance?](#o-que-é-compliance)  
-[Como funciona o compliance nas empresas?](#como-funciona-o-compliance-nas-empresas)
+[Como funciona o compliance nas empresas?](#como-funciona-o-compliance-nas-empresas)  
 [Como surgiu o compliance?](#como-surgiu-o-compliance)  
 [Qual é a importância do compliance?](#qual-a-importância-do-compliance)  
 [Principais benefícios do compliance](#principais-benefícios-do-compliance)  
