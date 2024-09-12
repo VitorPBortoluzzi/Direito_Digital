@@ -62,8 +62,10 @@
     O termo compliance tem origem no verbo em inglês to comply, que significa "cumprir".
 
 ### Direito à Privacidade ([Art 5º, inciso X](https://constituicao.stf.jus.br/dispositivo/cf-88-parte-1-titulo-2-capitulo-1-artigo-5))
-    O direito à privacidade é um direito fundamental que protege a vida pessoal, profissional e social de um indivíduo, garantindo que informações sobre sua intimidade, vida privada, honra e imagem sejam protegidas de divulgação não autorizada. 
-    Na Constituição Federal, esse direito está previsto no artigo 5º, inciso X, que declara invioláveis esses aspectos da vida das pessoas, assegurando indenização por dano material ou moral decorrente de sua violação.
+    O direito à privacidade é um direito fundamental que protege a vida pessoal, profissional e social de um indivíduo, garantindo que informações sobre sua intimidade,
+    vida privada, honra e imagem sejam protegidas de divulgação não autorizada. 
+    Na Constituição Federal, esse direito está previsto no artigo 5º, inciso X, que declara invioláveis esses aspectos da vida das pessoas, assegurando indenização por
+    dano material ou moral decorrente de sua violação.
 
 ### Direito à Honra ([Art 5º, inciso X](https://constituicao.stf.jus.br/dispositivo/cf-88-parte-1-titulo-2-capitulo-1-artigo-5))
     Protege a reputação e dignidade de uma pessoa, evitando que ela seja difamada, caluniada ou injuriada. 
@@ -74,15 +76,20 @@
     A Constituição Federal assegura a inviolabilidade da imagem no artigo 5º, incisos V e X.
 
 ### Direito ao Anonimato ([Art 5º, inciso IV](https://constituicao.stf.jus.br/dispositivo/cf-88-parte-1-titulo-2-capitulo-1-artigo-5))
-    O direito ao anonimato envolve a prerrogativa de manter a identidade oculta em certas situações, especialmente para proteger o indivíduo de retaliações ou discriminações. 
-    No entanto, a Constituição Federal, no artigo 5º, inciso IV, garante a liberdade de expressão, mas veda o anonimato para assegurar a responsabilidade pelas manifestações.
+    O direito ao anonimato envolve a prerrogativa de manter a identidade oculta em certas situações, especialmente para proteger o indivíduo de retaliações ou
+    discriminações. 
+    No entanto, a Constituição Federal, no artigo 5º, inciso IV, garante a liberdade de expressão, mas veda o anonimato para assegurar a responsabilidade pelas
+    manifestações.
 
 ### Direito à Informação ([Art 5º, inciso XIV](https://constituicao.stf.jus.br/dispositivo/cf-88-parte-1-titulo-2-capitulo-1-artigo-5)) & ([Lei de Acesso à Informação (Lei nº 12.527/2011)](https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2011/lei/l12527.htm))
-    Este direito assegura o acesso a informações de interesse público, fundamentais para a transparência e participação cidadã. Na Constituição Federal, está previsto no artigo 5º, inciso XIV. 
-    A Lei de Acesso à Informação (Lei nº 12.527/2011) regulamenta esse direito, promovendo a transparência e permitindo que qualquer pessoa solicite informações de órgãos públicos.
+    Este direito assegura o acesso a informações de interesse público, fundamentais para a transparência e participação cidadã. Na Constituição Federal, está previsto
+    no artigo 5º, inciso XIV. 
+    A Lei de Acesso à Informação (Lei nº 12.527/2011) regulamenta esse direito, promovendo a transparência e permitindo que qualquer pessoa solicite informações de
+    órgãos públicos.
 
 ### Direito ao Sigilo ([Art 5º, incisos X & XII](https://constituicao.stf.jus.br/dispositivo/cf-88-parte-1-titulo-2-capitulo-1-artigo-5))
-    O direito ao sigilo protege informações confidenciais, garantindo privacidade e segurança. Existem várias formas de sigilo, como o sigilo bancário, fiscal, médico, profissional, e de comunicações. 
+    O direito ao sigilo protege informações confidenciais, garantindo privacidade e segurança. Existem várias formas de sigilo, como o sigilo bancário, fiscal, médico,
+    profissional, e de comunicações. 
     A Constituição Federal protege esse direito no artigo 5º, incisos X e XII, e sua violação pode resultar em sanções legais.
 
 ### Direito à Igualdade ([Art 5º](https://constituicao.stf.jus.br/dispositivo/cf-88-parte-1-titulo-2-capitulo-1-artigo-5))
@@ -93,18 +100,23 @@ Menções há:
     ![Imagem](Uteis/igualdade-e-equidade.png "Igualdade e equidade – Charge de autoria desconhecida")
 
 ### Direito à Segurança ([Art 5º](https://constituicao.stf.jus.br/dispositivo/cf-88-parte-1-titulo-2-capitulo-1-artigo-5))
-    O direito à segurança é essencial para proteger a integridade física, psicológica e patrimonial dos indivíduos. Está garantido na Constituição Federal, no artigo 5º, que assegura a
-    inviolabilidade da vida, liberdade, igualdade, segurança e propriedade. A segurança pública é dever do Estado, enquanto a segurança pessoal e jurídica protegem os direitos individuais.
+    O direito à segurança é essencial para proteger a integridade física, psicológica e patrimonial dos indivíduos. Está garantido na Constituição Federal, no artigo
+    5º, que assegura a inviolabilidade da vida, liberdade, igualdade, segurança e propriedade. A segurança pública é dever do Estado, enquanto a segurança pessoal e
+    jurídica protegem os direitos individuais.
 
 ### Diferença entre Calúnia e Difamação ([Art 5º, inciso V](https://www.planalto.gov.br/ccivil_03/constituicao/constituicao.htm) & [Art 138 Cod. Penal](https://corpus927.enfam.jus.br/legislacao/cp-40#art-138) & [Art 139 Cod. Penal](https://corpus927.enfam.jus.br/legislacao/cp-40#art-139))
-    * Calúnia: Consiste em acusar falsamente alguém de ter cometido um crime, sabendo que a acusação é falsa. É um crime contra a honra previsto no artigo 138 do Código Penal.
+    * Calúnia: Consiste em acusar falsamente alguém de ter cometido um crime, sabendo que a acusação é falsa. É um crime contra a honra previsto no artigo 138 do Código
+    Penal.
 
     * Difamação: Consiste em atribuir a alguém um fato ofensivo à sua reputação, que não constitui crime. A difamação está prevista no artigo 139 do Código Penal. 
 
-    Ambos são crimes contra a honra, mas a calúnia envolve a falsa imputação de um crime, enquanto a difamação envolve a atribuição de um fato desonroso que não é necessariamente criminoso.
+    Ambos são crimes contra a honra, mas a calúnia envolve a falsa imputação de um crime, enquanto a difamação envolve a atribuição de um fato desonroso que não é
+    necessariamente criminoso.
 
 ### Lei Anticorrupção ([Lei nº 12.846/2013](https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2013/lei/l12846.htm))
-Sancionada em 2013 no Brasil, essa lei estabelece medidas para combater a corrupção e responsabiliza empresas por atos lesivos à administração pública. Ela prevê a responsabilização objetiva das pessoas jurídicas, impondo sanções que podem incluir multas de até 20% do faturamento. A lei também incentiva a implementação de programas de compliance e estabelece mecanismos para denúncias e acordos de leniência.
+Sancionada em 2013 no Brasil, essa lei estabelece medidas para combater a corrupção e responsabiliza empresas por atos lesivos à administração pública. Ela prevê a
+responsabilização objetiva das pessoas jurídicas, impondo sanções que podem incluir multas de até 20% do faturamento. A lei também incentiva a implementação de
+programas de compliance e estabelece mecanismos para denúncias e acordos de leniência.
 
 
 ### [Due Diligence](https://fia.com.br/blog/due-diligence/)
