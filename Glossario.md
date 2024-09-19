@@ -20,6 +20,7 @@
 17. [Diferença entre Calúnia e Difamação](#diferença-entre-calúnia-e-difamação-art-5º-inciso-v--art-138-cod-penal--art-139-cod-penal)
 18. [Lei Anticorrupção (Lei 12.846/13)](#lei-anticorrupção-lei-nº-128462013)
 19. [Duo Diligence](#due-diligence)
+20. [Conflito](#conflito)
 
 ### Lei
     É uma regra ou prescrição escrita, estabelecida por uma autoridade soberana, que tem força obrigatória e é destinada a 
@@ -97,7 +98,7 @@
     Consagrado no artigo 5º da Constituição Federal, esse direito promove a justiça social e pode exigir ações afirmativas para corrigir desigualdades históricas e garantir oportunidades iguais para todos.
 Menções há:  
     ([Principio constituicional da igualdade](https://www.jusbrasil.com.br/noticias/principio-constitucional-da-igualdade/2803750)).  
-    ![Imagem](Uteis/igualdade-e-equidade.png "Igualdade e equidade – Charge de autoria desconhecida")
+    ![Imagem](Uteis/Imgs/igualdade-e-equidade.png "Igualdade e equidade – Charge de autoria desconhecida")
 
 ### Direito à Segurança ([Art 5º](https://constituicao.stf.jus.br/dispositivo/cf-88-parte-1-titulo-2-capitulo-1-artigo-5))
     O direito à segurança é essencial para proteger a integridade física, psicológica e patrimonial dos indivíduos. Está garantido na Constituição Federal, no artigo
@@ -120,4 +121,13 @@ programas de compliance e estabelece mecanismos para denúncias e acordos de len
 
 
 ### [Due Diligence](https://fia.com.br/blog/due-diligence/)
-Due diligence é um termo utilizado principalmente em contextos empresariais e financeiros, referindo-se ao processo de investigação e avaliação de uma empresa ou ativo antes de uma transação, como fusões e aquisições, investimentos ou financiamentos. O objetivo do due diligence é garantir que todas as informações relevantes sejam analisadas e compreendidas, minimizando riscos e surpresas para as partes envolvidas.
+Due diligence é um termo utilizado principalmente em contextos empresariais e financeiros, referindo-se ao processo de investigação e avaliação de uma empresa ou ativo antes de uma transação,
+como fusões e aquisições, investimentos ou financiamentos. O objetivo do due diligence é garantir que todas as informações relevantes sejam analisadas e compreendidas, minimizando riscos e 
+surpresas para as partes envolvidas.
+
+### [Conflito](https://pt.wikipedia.org/wiki/Conflito)
+Conflito é uma divergência de interesses, opiniões ou objetivos entre duas ou mais partes, que pode gerar confronto ou disputa. Pode ocorrer em diversas esferas, como pessoal, social, jurídico ou
+digital, e envolve a necessidade de resolução para evitar ou encerrar o embate.
+
+### [Confronto](Uteis/Imgs/Confronto.png)
+Confronto é uma situação de enfrentamento direto entre duas ou mais partes, caracterizada por uma disputa aberta ou conflito intenso. Pode envolver forças, ideias, ou interesses opostos, resultando em tensão, embate verbal, físico, ou simbólico. Diferente de um simples desacordo, o confronto geralmente implica uma interação ativa e, muitas vezes, hostil, onde as partes buscam impor suas posições ou resolver a disputa de forma decisiva.
